@@ -8,5 +8,12 @@ html,body{
     height: 100%;
 }
 .p{
-    color: red;
+    background-color: aquamarine;
+    color: rgb(16, 47, 36);
+    font-family: sans-serif;
+    font-weight: 200;
+    line height: 0.85;
+    padding: 20px;
+    margin:10px;
+    border:2px dotted black;
 }
